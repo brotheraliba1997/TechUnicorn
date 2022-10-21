@@ -1,0 +1,657 @@
+body {
+  background: #e5e5e5 !important;
+}
+
+.margin {
+  margin-top: 50px;
+}
+
+.m-80 {
+  margin-top: 80px;
+}
+
+.m-100 {
+  margin-top: 100px;
+}
+
+.margin-top {
+  margin-top: 80px;
+}
+
+.padding {
+  padding: 50px;
+}
+
+.header-heading {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  color: #f86338;
+  margin: 0;
+}
+
+.button {
+  width: 156px;
+  height: 56px;
+  background: #f86338;
+  border-radius: 8px;
+  border: #f86338;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-fonts {
+  color: #ffffff;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+.heading {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #11142d;
+}
+
+.heading-h4 {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #11142d;
+}
+
+.paraghp {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #9a9ab0;
+}
+
+.Article-fonts {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #f86338;
+}
+
+.img-size-fix{
+    width: 100%;
+    height: 400px;
+    
+   
+  }
+
+.hero-collection-image {
+  background-image: url("../../image/menuBackground.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background: wheat; */
+  width: 90vw;
+  height: 100vh;
+  /* background-image: url(); */
+}
+.hero-collection-image button {
+  width: 156px;
+  height: 56px;
+  background: #f86338;
+  border-radius: 8px;
+  border: #f86338;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.storebrands {
+  width: 607px;
+  height: 720px;
+  background: white;
+  border-radius: 8px;
+}
+
+.hero-collection-image .button-fonts {
+  color: #ffffff;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+.box-all {
+  background: #9a9ab0;
+  height: 416px;
+  width: 608px;
+  border: #9a9ab0;
+}
+
+.header-navbar {
+  font-family: "DM Sans";
+  color: #f86338 !important;
+  font-size: 39px;
+}
+.header-navbar-style {
+  font-family: "DM Sans";
+  font-size: 16px;
+  color: #11142d;
+  line-height: 60px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-section {
+  color: #11142d;
+}
+
+/* .menu-backgroung-image{
+    background-image: url("../../image/menuBackground.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    
+} */
+
+/* .menu-Button-class{
+background: #F86338 !important;
+border-radius: 8px !important;
+margin: 80px 0;
+
+}
+
+.menu-button-fonts{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+color: #FFFFFF;
+
+} */
+
+.menu-Collection-font {
+  font-family: "DM Sans";
+  font-weight: 700;
+  font-size: 48px;
+  color: #11142d;
+}
+
+.head-product .menu-flex-font {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #f86338;
+}
+
+.Home-box-product {
+  width: 400px;
+  height: 640px;
+  background: #ffffff;
+}
+.head-product .menu-flex {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #9a9ab0;
+}
+
+/* card design */
+
+.Home-card-Collection {
+  width: 400px;
+
+  /* height: 640px; */
+  background: #ffffff;
+}
+
+.card-button {
+  width: 40px;
+  height: 40px;
+  background-color: #f86338;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Home-Menu-style {
+  width: 156px;
+  height: 56px;
+  background: #f86338;
+  border-radius: 8px;
+  border: #f86338;
+}
+
+.Home-Menu-style-Button {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.Top-items-heading {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #11142d;
+}
+
+.Top-items-Paragh {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #515151;
+}
+
+.position-slider-Card {
+  width: 400px;
+  height: 451px;
+  background: #e2e2ea;
+  position: relative;
+}
+
+.position-slider-Card .absoloute {
+  position: absolute;
+  top: 10px;
+  left: 5px;
+}
+.position-slider-Card .Slider-Fonts {
+  background: #f6f7fb;
+  border-radius: 6px;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  color: #f86338;
+  text-align: center;
+  width: 46px;
+  height: 22px;
+}
+
+.position-slider-Card .absoloute-Font-heading {
+  position: absolute;
+  top: 300px;
+  left: 100px;
+}
+
+.position-slider-Card .absoloute-Font-heading .Slider-Heading {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: #11142d;
+}
+
+.absoloute-Font-heading .Slider-paragh {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #9a9ab0;
+  text-align: center;
+}
+
+.absoloute-Font-heading .Slider-Rupes {
+  color: #f86338;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+}
+
+.absoloute-Font-heading .Slider-Rupes-Second {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #9a9ab0;
+  padding: auto;
+}
+
+.paraghp-Orange {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #f86338;
+}
+
+.GoodSeller {
+  font-family: "DMSans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #f86338;
+}
+
+.box-BestSummer-fonts {
+  font-family: "DMSans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 31px;
+  color: #11142d;
+}
+
+.input-design {
+  border: 1px solid #f4f7f8;
+  background: #f4f7f8;
+  width: 816px;
+  max-width: 90%;
+  height: 64px;
+  border-radius: 10px;
+}
+
+.navbar-Input {
+  border: #ffffff;
+  width: 573px;
+  max-width: 100%;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 4px;
+}
+
+.button-design {
+  border: #f86338;
+  width: 48px;
+  height: 48px;
+  background: #f86338;
+  border-radius: 10%;
+}
+
+.footer-box {
+  height: 360px;
+  width: 360px;
+  background: #e2e2ea;
+}
+
+.padding-all-size {
+  padding-top: 80px;
+}
+
+.footer-circle {
+  width: 40px;
+  height: 40px;
+  background: #f86338;
+  border-radius: 50%;
+}
+
+.footer-circle .fonts {
+  font-family: "Merriweather";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.store-bands-fonts {
+  padding: 50px;
+}
+
+.goolseller-padding {
+  padding-left: 0px;
+  padding-top: 20px;
+}
+
+.good-seller-card-design {
+  height: 320px;
+  width: 320px;
+  background: #e2e2ea;
+  border-radius: 8px;
+  border: #e2e2ea;
+  position: relative;
+}
+
+/* .good-seller-button-left {
+  position: absolute;
+  right:  398px;
+  top: 120px;
+  width: 56px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.good-seller-button-right {
+  position: absolute;
+  left: 1200px;
+  top: 120px;
+  width: 56px;
+  height: 56px;
+  background: #ffffff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+@media only screen and (max-width: 600px) {
+  .logo-Section {
+    display: flex;
+    flex-direction: column;
+  }
+  .logo-Section > div {
+    margin: 15px 0px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Home-box-product{
+    width: 90%;
+    margin: auto;
+  }
+
+  .img-size-fix{
+    width: 100%;
+    height: 400px;
+  }
+
+  .footer-box {
+    height: 360px;
+    width: 100%;
+    background: #e2e2ea;
+  }
+
+  .goolseller-padding {
+    padding-left: 0px;
+    padding-top: 20px;
+  }
+
+  .menu-flex {
+    flex-direction: column;
+    overflow-y: scroll;
+    width: 100%;
+    height: 100px;
+    border: none;
+  }
+
+  .input-design {
+    border: 1px solid #f4f7f8;
+    padding: 2px;
+    background: #f4f7f8;
+    width: 516px;
+    border-radius: 10px;
+  }
+
+  .button-design {
+    border: #f86338;
+    width: 48px;
+    height: 40px;
+    background: #f86338;
+    border-radius: 10%;
+  }
+
+  .paraghp {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #9a9ab0;
+  }
+
+  .paraghp-navbar {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #11142d;
+  }
+  .heading {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #11142d;
+  }
+  .hero-collection-image {
+    background-image: url("../../image/menuBackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background: wheat; */
+    width: 100vw;
+    height: 50vh;
+    text-align: center;
+    /* background-image: url(); */
+  }
+
+  .hero-collection-image > div > div {
+    width: 100% !important;
+  }
+
+  .hero-collection-image button {
+    width: 100px;
+    height: 40px;
+    background: #f86338;
+    border-radius: 8px;
+    border: #f86338;
+
+    margin: auto;
+  }
+
+  .hero-collection-image .button-fonts {
+    color: #ffffff;
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    padding-top: 15px;
+  }
+
+  .storebrands {
+    width: 90%;
+    margin: auto;
+    height: 720px;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid black;
+  }
+  .header-heading {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #f86338;
+    margin: 0;
+  }
+  .navbar-Input {
+    border: #ffffff;
+    width: 600px;
+    height: 40px;
+    background: #ffffff;
+    border-radius: 4px;
+    order: 2;
+  }
+
+  .Home-card-Collection {
+    width: auto;
+    /* height: 640px; */
+    background: #ffffff;
+  }
+
+  .Home-card-Collection .paraghp {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #9a9ab0;
+  }
+
+  .Home-card-Collection .heading {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #11142d;
+  }
+
+  .position-slider-Card {
+  }
+  .position-slider-Card .absoloute-Font-heading {
+    position: absolute;
+    top: 70%;
+    left: 30%;
+  }
+
+  .store-bands-fonts {
+    padding-top: 50px;
+    padding-left: 0px;
+  }
+
+  /* .good-seller-button-left {
+    position: absolute;
+
+    width: 56px;
+    height: 56px;
+    background: #ffffff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .good-seller-button-right {
+    position: absolute;
+    
+    
+    
+    width: 56px;
+    height: 56px;
+    background: #ffffff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } */
+  .box-all {
+    background: #9a9ab0;
+    height: 416px;
+    width: 100%;
+    border: #9a9ab0;
+  }
+
+  .navber-product {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+
+  .navber-product > div {
+    width: 100%;
+    margin: 5px 0;
+  }
+}

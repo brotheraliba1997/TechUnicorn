@@ -1,0 +1,167 @@
+.Product-box-details {
+  height: 552px;
+  background: #e2e2ea;
+  border-radius: 8px;
+}
+
+.m-100 {
+  margin-top: 100px;
+}
+.m-80 {
+  margin-top: 80px;
+}
+
+.product-box-alignment {
+  width: 608px;
+}
+
+.Checkout {
+    width: 507px;
+    height: 56px;
+    background: #f86338;
+    border-radius: 8px;
+  }
+
+ 
+.product-heading {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 62px;
+  color: #333333;
+}
+
+.product-rate {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 62px;
+  color: #f86338;
+}
+
+.product-quality {
+  width: 110px;
+  height: 33px;
+  background: #ffffff;
+  border-radius: 4px;
+}
+
+.product-shop-doller {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #f86338;
+}
+
+.Addtocart {
+  width: 171px;
+  height: 56px;
+  background: #f86338;
+  border-radius: 8px;
+}
+.Wishlist {
+  width: 171px;
+  height: 56px;
+  background: transparent;
+  border-radius: 8px;
+  border: 1px solid #f86338;
+}
+
+.AddtoCart-fonts {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  color: #ffffff;
+}
+.product-small-box-detail {
+  width: 192px;
+  height: 171px;
+  background: #e2e2ea;
+  border-radius: 8px;
+}
+
+/* description */
+
+.Description-heading {
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  color: #11142d;
+}
+
+.reviewcircle {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: #f86338;
+  margin-top: 20px;
+}
+
+.review-box {
+  width: 88px;
+  height: 88px;
+  background: #f86338;
+  border-radius: 4px;
+}
+
+.detail-large-box {
+  width: 568px;
+  height: 1026px;
+  background: white;
+  border-radius: 8px;
+}
+
+.product-image{
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .product-box-alignment {
+    width: 90%;
+    margin: auto;
+  }
+
+  .product-small-box-detail {
+    width: 90%;
+    margin: auto 5px;
+    height: 171px;
+    background: #e2e2ea;
+    border-radius: 8px;
+  }
+
+  
+
+  .reviewcircle {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: #f86338;
+    margin-top: 20px;
+  }
+
+  .Description-heading {
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    color: #11142d;
+  }
+
+  .review-box {
+    width: 78px;
+    height: 78px;
+    background: #f86338;
+    border-radius: 4px;
+  }
+  .product-heading {
+    padding-top: 40px;
+  }
+
+  .detail-large-box {
+    width: 90%;
+    margin: auto;
+  }
+}
